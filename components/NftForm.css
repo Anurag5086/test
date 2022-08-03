@@ -1,0 +1,43 @@
+.mainContainer{
+    margin: auto auto;
+    width: 33%;
+    height: 400px;
+}
+
+.innerContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.heading {
+    margin-top: 20%;
+    text-align: center;
+}
+
+.modalContainer{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.btnMargin {
+    margin-bottom: 20px;
+}
+
+.inputFile{
+    margin-bottom: 40px;
+    margin-top: 30px;
+    alignSelf: center;
+}
+
+.inputDes {
+    margin-bottom: 20px;
+}
+
+.inputName {
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+

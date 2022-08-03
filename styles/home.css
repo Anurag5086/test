@@ -1,0 +1,19 @@
+.homeContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.mlhImg{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.xImage{
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.solanaImg {
+    margin-top: 10px;
+}
